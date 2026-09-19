@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Beach Racing Legends",
+    "slug": "beach-racing-legends",
+    "version": "1.0.0",
+    "orientation": "default",
+    "newArchEnabled": false,
+    "android": {
+      "package": "com.beachracinglegends.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.beachracinglegends.app"
+    }
+  }
+}
